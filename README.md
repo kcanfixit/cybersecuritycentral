@@ -1,5 +1,5 @@
 # cybersecuritycentral
-For all things CC
+**For All Things CC:**
 
 * Visit Cybersecurity Central online at: https://cybersecuritycentral.org
 * Follow Cybersecurity Central on LinkedIn at: https://linkedin.com/company/cybersecuritycentralorg
